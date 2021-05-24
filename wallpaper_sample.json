@@ -6,12 +6,12 @@
 				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/01.jpeg",
 				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/01.jpeg",
 				"name": "Wallpaper 1"
-				{
-					"author": "Taken from github",
-					"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/02.png",
-					"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/02.png",
-					"name": "Wallpaper 2"						
-				}							
-			}
+			},
+			{
+		        "author": "Taken from github",
+			    "url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/02.png",
+			    "thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/02.png",
+			    "name": "Wallpaper 2"						
+			}								
 		]
 }
