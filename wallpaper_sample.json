@@ -37,6 +37,26 @@
 		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/02.png",
 		"collections": "Landscapes,Art,Material Design",
 		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"					
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/03.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/03.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/03.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Elysian/main/03.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"						
 	}
 ]
